@@ -1,5 +1,5 @@
 body {
-    background-color: #cc6666;
+    background-color: #3c5d5d;
     margin-top: 0px;
     margin-bottom: 30px;
     margin-right: 5px;
@@ -7,7 +7,7 @@ body {
 
 }
 .btn {
-background-color: #ffcccc;
+background-color: #85adad;
 }
 .dropdown-menu li {
 background-color: #a5c2f3;
@@ -16,7 +16,7 @@ background-color: #a5c2f3;
 
     width: 780px,;
     margin: 0 auto;
-    background:#ecc6c6;
+    background:#d1e0e0;
     box-shadow: 0px 50px 50px 10px;
     color: #000000;
 	padding-top: 0px;
@@ -28,11 +28,11 @@ background-color: #a5c2f3;
 	color: #008000;
 }
 a:link, a:visited {
-   color: #740000;
+   color: #334d4d;
 }
 
 a:hover, a:active {
-   color: #cc0000;
+   color: #527a7a;
    text-decoration: none;
 }
 
